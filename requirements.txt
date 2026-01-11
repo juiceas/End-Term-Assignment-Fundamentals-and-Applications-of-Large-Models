@@ -1,0 +1,39 @@
+# Web框架
+streamlit==1.32.0
+flask==3.0.0
+flask-cors==4.0.0
+
+# 数据采集
+requests==2.32.2
+beautifulsoup4==4.12.3
+lxml==5.1.0
+selenium==4.18.0
+
+# PDF处理
+PyPDF2==3.0.1
+pdfplumber==0.11.0
+Pillow==10.2.0
+
+# 向量数据库
+chromadb==0.4.22
+
+# 嵌入和LLM
+openai==1.12.0
+sentence-transformers==2.3.1
+transformers==4.37.2
+
+# 配置和工具
+pyyaml==6.0.1
+python-dotenv==1.0.1
+
+# 其他工具
+tqdm==4.66.3
+numpy==1.26.4
+pandas==2.2.0
+
+# OCR相关
+pytesseract==0.3.10
+
+#额外兼容依赖
+markupsafe==2.0.1
+anyio==3.7.1
